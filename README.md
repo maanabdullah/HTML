@@ -113,7 +113,7 @@ Inside the opening and closing <form> tag, we need to create a table element.
 </html>***
 
 That was a breeze, right? Great, but it sort of gets complicated now, so you might want to turn off your twitter notification and set your eyes on the screen!
-Inside the <table> tag, we need to define the table rows <tr> which is basically going to be the horizontal section of the calculator and the table data <td> (table column cell) which is to contain the calculator display and buttons.
+Inside the() tag, we need to define the table rows <tr> which is basically going to be the horizontal section of the calculator and the table data <td> (table column cell) which is to contain the calculator display and buttons.
 
 The first horizontal section of our calculator is to contain the display screen.
 
