@@ -5,7 +5,7 @@ This post but can simply concentrate on the options of net Storage and hopefully
 What net Storage will
 Using JavaScript, net Storage makes it doable to simply store capricious values within the browser. Storage is completely different from cookies in this it’s not shared with the server. It’s additionally completely different from cookies in this it’s dead straightforward to figure with.
 There ar 2 versions of net Storage: native and session. native means it’s persistent, and session is solely that the information is lost once the session ends (i.e. after you shut you browser window or tab). It’s additionally value noting that a session is tied to one browser window or tab. The session doesn’t leak in to alternative open windows thereon same domain.
-Any information keep is tied to the document origin, in this it’s tied to the precise protocol (http or https, etc), the host (html5doctor.com) and also the port (usually port 80).
+Any information keep is tied to the document origin, in this it’s tied to the precise protocol (http or https, etc), the host and also the port (usually port 80).
 Get Storing
 The API for localStorage and sessi 'Remy';
 
